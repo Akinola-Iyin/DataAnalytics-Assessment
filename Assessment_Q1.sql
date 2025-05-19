@@ -2,6 +2,7 @@
 Scenario: The business wants to identify customers who have both a savings and an investment plan (cross-selling opportunity). 
 Task: Write a query to find customers with at least one funded savings plan AND one 
 funded investment plan, sorted by total deposits.*/
+
 -- Q1: Identify high-value customers with both funded savings and investment plans, sorted by total deposits.
 
 SELECT 
