@@ -1,0 +1,1 @@
+-- SQL query for Question 3 goes here
